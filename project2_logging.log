@@ -1,0 +1,11 @@
+2022-12-31 19-17-20 - INFO - Dataset loaded
+2022-12-31 19-17-21 - INFO - Dropped null values
+2022-12-31 19-17-23 - INFO - Dropped duplicates
+2022-12-31 19-17-28 - INFO - Extracted hour and minute from departure time
+2022-12-31 19-17-30 - INFO - Dropped columns
+2022-12-31 19-17-39 - INFO - Combined similar destinations
+2022-12-31 19-18-28 - INFO - Encoded categorical variables
+2022-12-31 19-18-33 - INFO - Applied pre-processing steps on test dataset
+2022-12-31 19-18-36 - INFO - Extracted dependent and independent variables for regression
+2022-12-31 19-45-19 - INFO - Fitted the models on the training data
+2022-12-31 19-45-24 - INFO - Made Predictions with all models
